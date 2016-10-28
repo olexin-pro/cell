@@ -1,5 +1,5 @@
 # Cell
-Cell fsdgf
+Cell: The wrapper on a package of "donquixote/cellbrush" for Laravel
 
 ## Install
 Begin by installing the package through Composer.
