@@ -1,0 +1,15 @@
+{
+  "name": "aizhar777/cell",
+  "description": "Laravel package for generate html table",
+  "type": "composer-plugin",
+  "require": {
+    "donquixote/cellbrush": "^1.0"
+  },
+  "license": "MIT",
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-0": {
+      "Aizhar777\\Cell\\": "src/"
+    }
+  }
+}
