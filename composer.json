@@ -1,11 +1,17 @@
 {
   "name": "aizhar777/cell",
   "description": "Laravel package for generate html table",
-  "type": "composer-plugin",
+  "keywords": ["html table", "laravel", "aizhar777"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Aizhar Olexin",
+      "email": "aizharolexin@gmail.com"
+    }
+  ],
   "require": {
     "donquixote/cellbrush": "^1.0"
   },
-  "license": "MIT",
   "minimum-stability": "dev",
   "autoload": {
     "psr-0": {
